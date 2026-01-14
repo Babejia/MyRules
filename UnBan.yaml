@@ -1,41 +1,30 @@
 payload:
-  # --- 玩偶系列 ---
+  # --- 自定义直连 ---
+  - DOMAIN-SUFFIX,pc528.net
+  
+  # 影视资源合集直连
   - DOMAIN-SUFFIX,333232.xyz
   - DOMAIN-SUFFIX,wogg.one
   - DOMAIN-SUFFIX,wogg.xxooo.cf
-
-  # --- 木偶系列 ---
   - DOMAIN-SUFFIX,muou.site
   - DOMAIN-SUFFIX,666291.xyz
   - DOMAIN-SUFFIX,muou.asia
-
-  # --- 蜡笔系列 ---
   - DOMAIN-SUFFIX,feimao888.fun
   - DOMAIN-SUFFIX,feimao666.fun
-
-  # --- 至臻系列 ---
   - DOMAIN-SUFFIX,miqk.cc
   - DOMAIN-SUFFIX,mihdr.top
   - DOMAIN-SUFFIX,zhizhenpan.fun
-
-  # --- 多多系列 ---
   - DOMAIN-SUFFIX,yydsys.cc
   - DOMAIN-SUFFIX,yydsys.top
   - DOMAIN-SUFFIX,214521.xyz
-
-  # --- 欧哥/二小系列 ---
   - DOMAIN-SUFFIX,nxog.eu.org
   - DOMAIN-SUFFIX,erxiaofn.click
   - DOMAIN-SUFFIX,erxiaofn.site
   - DOMAIN-SUFFIX,2xiaopan.fun
-
-  # --- 虎斑/小斑 (含有 IP 和 端口) ---
-  - IP-CIDR,103.45.162.207/32,no-resolve
   - DOMAIN-SUFFIX,xsayang.fun
-
-  # --- 你之前加的补充 ---
   - DOMAIN-SUFFIX,pc528.net
-
+  - IP-CIDR,103.45.162.207/32,no-resolve
+  
   # Epicgames
   - DOMAIN-SUFFIX,ol.epicgames.com
 
