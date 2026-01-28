@@ -1,7 +1,8 @@
 payload:
   # --- 自定义直连 ---
   - DOMAIN-SUFFIX,pc528.net
-  
+  - DOMAIN-SUFFIX,16personalities.com
+
   # 影视资源合集直连
   - DOMAIN-SUFFIX,333232.xyz
   - DOMAIN-SUFFIX,wogg.one
